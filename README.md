@@ -26,9 +26,6 @@ Perfect for:
 * Virtual production artists
 * Level sequence creators
 
-
-
-
 ShotSight streamlines your production pipeline by eliminating the need to navigate multiple windows and menus. Whether you're managing complex cinematics or simple sequences, this tool provides the visibility and control you need to work more efficiently.
 
 
@@ -43,6 +40,18 @@ This plugin is a self contained Unreal Engine 5.4 plugin (For 5.5 please see the
 * Open your Unreal Engine project
 * Go to Edit > Plugins and search for ShotSight. Enabling the plugin once you find it and restarting the editor.
 * Navigate to the secondary editor toolbar and find the ShotSight  button (Hovering over this helpfully tells you "Open ShotSight Cinematic Browser.)
+
+## Feature Roadmap
+
+> The tool roadmap for version 1.1 and beyond
+
+🚀 &nbsp;**OPEN** &nbsp;&nbsp;📉 &nbsp;&nbsp;**0 / 1** goals completed **(0%)** &nbsp;&nbsp;📅 &nbsp;&nbsp;**Mon Jun 30 2025**
+
+| Status | Feature | Labels 
+| :---: | :--- | --- | 
+| ❌ | Persistant user settings after closing the window or restarting the editor |`in progress`| 
+| ❌ | Filter by sequence types "Master Sequences, Camera Animations, Template Animations etc. |`queued`| 
+
 
 ## Authors
 
