@@ -41,7 +41,7 @@ This plugin is a self contained Unreal Engine 5.4 plugin (For 5.5 please see the
 
 > The tool roadmap for version 1.1 and beyond
 
-🚀 &nbsp;**OPEN** &nbsp;&nbsp;📉 &nbsp;&nbsp;**0 / 1** goals completed **(0%)** &nbsp;&nbsp;📅 &nbsp;&nbsp;**Mon Jun 30 2025**
+🚀 &nbsp;**OPEN** &nbsp;&nbsp;📉 &nbsp;&nbsp;**0 / 2** goals completed **(0%)** &nbsp;&nbsp;📅 &nbsp;&nbsp;**Mon Jun 30 2025**
 
 | Status | Feature | Labels 
 | :---: | :--- | --- | 
