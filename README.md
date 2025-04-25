@@ -18,13 +18,9 @@ Simplify your cinematic workflow with ShotSight, the essential tool that brings 
 | Visual Preview Thumbnails   | Easily identify sequences with thumbnail previews                                                          |
 | Directory Management        | Efficiently organize and locate your sequence files                                                        |
 |Transaction Undo             | Feel safe knowing                                                       |
-Perfect for:
+Perfect for:                  |* Cinematic designers * Game developers * Animation teams * Virtual production artists * Level sequence creators
 
-* Cinematic designers
-* Game developers
-* Animation teams
-* Virtual production artists
-* Level sequence creators
+
 
 ShotSight streamlines your production pipeline by eliminating the need to navigate multiple windows and menus. Whether you're managing complex cinematics or simple sequences, this tool provides the visibility and control you need to work more efficiently.
 
